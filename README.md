@@ -32,10 +32,6 @@
   <img align="left" alt="Gmail" width="30px" src="https://user-images.githubusercontent.com/76125650/141382583-1354ab1c-10a7-4605-a255-412ee57d2ad7.png" draggable="false" />
 </a>
 
-<a href="https://codeforces.com/profile/Abdelrahman0123">
-  <img align="left" alt="Codeforces" width="37px" src="images/codeforces.png" draggable="false" />
-</a> 
-
 </div>
 
 <br />
